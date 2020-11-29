@@ -104,7 +104,6 @@ int main() {
     return 0;
 }
 */
-
 #include <iostream>
 
 int fibonacci (int number) {
